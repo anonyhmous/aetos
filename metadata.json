@@ -1,0 +1,6 @@
+{
+  "name": "Aetos Driver",
+  "description": "Production-grade autonomous ride-hailing driver utility with dual-engine screen reading, universal Arabic digit normalization, AI UI mutation detection, and floating HUD overlay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
