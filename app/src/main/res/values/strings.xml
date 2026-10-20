@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Aetos Driver</string>
+    <string name="nav_subscribe">Pro License</string>
+    <string name="nav_areas">Zones &amp; Areas</string>
+    <string name="nav_settings">Fare Engine</string>
+    <string name="accessibility_service_description">Aetos Driver Automation Engine reads ride alerts.</string>
 </resources>
